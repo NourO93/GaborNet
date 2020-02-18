@@ -11,3 +11,4 @@
 /dist/
 /GaborNet.egg-info/
 /.coverage
+/GaborNet/_test_.py
